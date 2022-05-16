@@ -5,7 +5,7 @@
   ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B)
-  ![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=C%23)
+  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -21,7 +21,7 @@
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Docker-Compose](https://img.shields.io/badge/-DockerCompose-333333?style=flat&logo=docker)
   ![Docker-Swarm](https://img.shields.io/badge/-DockerSwarm-333333?style=flat&logo=docker)
-  ![k8s](https://img.shields.io/badge/-k8s-333333?style=flat&logo=kebernetes)
+  ![kebernetes](https://img.shields.io/badge/-kebernetes-333333?style=flat&logo=kebernetes)
 -
   ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Goland](https://img.shields.io/badge/-Goland-333333?style=flat&logo=GoLand)
