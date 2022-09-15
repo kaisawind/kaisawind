@@ -36,5 +36,5 @@
   ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat&logo=raspberrypi&logoColor=c51d4a)
   ![ZYNQ](https://img.shields.io/badge/-ZYNQ-333333?style=flat&logo=arm&logoColor=c51d4a)
 
-[![kaisawind's github stats](https://github-readme-stats.vercel.app/api?username=kaisawind&theme=gruvbox)](https://github.com/kaisawind)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaisawind&layout=compact&langs_count=10&theme=gruvbox)]
+![kaisawind's github stats](https://github-readme-stats.vercel.app/api?username=kaisawind&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaisawind&layout=compact&langs_count=10&theme=gruvbox)
