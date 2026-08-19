@@ -1,4 +1,4 @@
-# 𝗛𝗲𝗹𝗹𝗼！![Visitor Count](https://profile-counter.glitch.me/kaisawind/count.svg)
+# 𝗛𝗲𝗹𝗹𝗼！
 
 -
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
@@ -35,6 +35,3 @@
   ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
   ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat&logo=raspberrypi&logoColor=c51d4a)
   ![ZYNQ](https://img.shields.io/badge/-ZYNQ-333333?style=flat&logo=arm&logoColor=c51d4a)
-
-![kaisawind's github stats](https://github-readme-stats.vercel.app/api?username=kaisawind&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaisawind&layout=compact&langs_count=10&theme=gruvbox)
